@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Twitter.sol": "weeter"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Twitter.sol": {
+			"keccak256": "0x7e013ee1353d1137caa71d1c10a7201b0b02659efcde272048dd3391c78151f2",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://19c24d77acb1d842cae7dade0ad4cfe8733055059960d0d1dc668a7644b0e084",
+				"dweb:/ipfs/QmXFrpFP4tmmwX7yCCWqdiDKMkdnsNqgWjo1yUct5mvJZg"
+			]
+		}
+	},
+	"version": 1
+}
